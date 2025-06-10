@@ -1,3 +1,15 @@
+COMPANY: CODETECH IT SOLUTIONS
+
+NAME: Ashwini Bamanke
+
+INTERN ID:CT04DN100
+
+DOMAIN: BACKEND WEB DEVELOPMENT
+
+DURATION: 12 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 # Project Demo
 
 [![Alt text](https://img.youtube.com/vi/lXk14qt2D28/0.jpg)](https://www.youtube.com/watch?v=lXk14qt2D28)
